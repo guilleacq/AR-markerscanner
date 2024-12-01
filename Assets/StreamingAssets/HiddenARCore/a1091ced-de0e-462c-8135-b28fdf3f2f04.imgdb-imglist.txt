@@ -1,0 +1,7 @@
+37d78840c68c462c98a971cbf7d520ee|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode (1).png|0.175
+96685f758ca040ad9d0fd251f4cd65a2|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode (2).png|0.175
+df307d8d1a89409e8228aeb69a842863|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode (3).png|0.175
+a6d54253fdb54a40aa16ad1000f428bb|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode (4).png|0.175
+8d12c990b56544f9b755a93d68f0c7cb|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode (5).png|0.175
+05d1ec0792844bb4a7da3d220caf4172|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode (6).png|0.175
+7813298ac08c4826ae0c7c0832c25c2b|C:\Users\guill\Desktop\markerscanner\Assets\Images\NEWTEMPIMG\qrcode.png|0.175

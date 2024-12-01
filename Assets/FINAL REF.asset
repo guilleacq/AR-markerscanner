@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: FINAL REF
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5680879556926989033
+  m_GuidHigh: 10938156146700611459
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5056634787164817472
+      m_GuidHigh: 17158949840528451992
+    m_SerializedTextureGuid:
+      m_GuidLow: 1991893791344866211
+      m_GuidHigh: 11847994107333837595
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcador1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4660535810744409973
+      m_GuidHigh: 11701985656020537245
+    m_SerializedTextureGuid:
+      m_GuidLow: 9202050198984744318
+      m_GuidHigh: 8438843782407041979
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcador2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4656188244205010317
+      m_GuidHigh: 7145106608847988866
+    m_SerializedTextureGuid:
+      m_GuidLow: 17011286177839622578
+      m_GuidHigh: 1041322929880047256
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcador3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5350555313946051155
+      m_GuidHigh: 13486297365277906602
+    m_SerializedTextureGuid:
+      m_GuidLow: 2892578773760289212
+      m_GuidHigh: 11758657632954443211
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcador4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4970203111543196048
+      m_GuidHigh: 14683969440566564279
+    m_SerializedTextureGuid:
+      m_GuidLow: 1334321409914566163
+      m_GuidHigh: 10478137465168083595
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcador5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5455146144383495175
+      m_GuidHigh: 8233054060458924711
+    m_SerializedTextureGuid:
+      m_GuidLow: 7274560289047792501
+      m_GuidHigh: 4160205407219645288
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcador6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5199054529388292490
+      m_GuidHigh: 3124585761634782382
+    m_SerializedTextureGuid:
+      m_GuidLow: 4847244636339761460
+      m_GuidHigh: 15630828233039741928
+    m_Size: {x: 0.175, y: 0.175}
+    m_SpecifySize: 1
+    m_Name: marcadorWIN
+    m_Texture: {fileID: 0}
